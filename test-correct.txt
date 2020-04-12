@@ -1,0 +1,4 @@
+add 1
+subtract 2
+multiply 4
+apply 8
